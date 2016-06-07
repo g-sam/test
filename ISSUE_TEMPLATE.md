@@ -1,3 +1,3 @@
-list
-- [ ] check 1
-- [X] check 2
+This is an example template for issues:
+
+Put whatever you like in here, and it will appear in the description box of a new issue.
